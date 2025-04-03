@@ -1,0 +1,6 @@
+/* Add your custom styles here */
+.card:hover {
+    background-color: #050606; /* Light background color */
+    box-shadow: 0 4px 20px rgba(4, 177, 207, 0.2); /* Shadow effect */
+    transition: all 0.3s ease; /* Smooth transition */
+}

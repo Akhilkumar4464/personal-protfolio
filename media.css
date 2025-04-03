@@ -1,0 +1,13 @@
+/* Media queries for responsive design */
+@media (max-width: 768px) {
+    .container {
+        padding: 10px; /* Adjust padding for smaller screens */
+    }
+    .logo {
+        height: 40px; /* Smaller logo for mobile */
+        width: 40px;
+    }
+    .img {
+        height: auto; /* Maintain aspect ratio on smaller screens */
+    }
+}
